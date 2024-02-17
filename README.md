@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java.
+ - It all started as an adventure to see if I still have what it takes. (since my C++ and C# background experience)
+- Now?
+- Now I truly 😍 it.
+
+- My target is to get ready for the  unknown road ahead.
+- There is no going back now...this is a one way road for me. :)
+
+- 📫 How to reach me:
+- http://facebook.com/pmudev
 <!--
 **petarmudev/petarmudev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
